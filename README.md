@@ -14,7 +14,7 @@ Link de soluções: https://unbbr.sharepoint.com/:v:/s/FGA636/EfbOV9nDwZBJqfMqqw
 
 * **`clone_graph.c`** → Implementação do problema *Clone Graph (LeetCode 133)*.
 * **`knight_board.c`** → Resolução do problema do *Tabuleiro do Cavalo*.
-* **`graph_properties.c`** → Implementação do problema de *Componentes Conexos a partir de Propriedades*.
+* **`graph_properties.c`** → Implementação do problema
 
 ---
 
