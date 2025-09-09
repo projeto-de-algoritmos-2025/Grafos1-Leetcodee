@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 struct No {
-    int valor;                // valor do nó
-    int numVizinhos;          // quantidade de vizinhos
-    struct No** vizinhos;     // lista de ponteiros para os vizinhos
+    int valor;                
+    int numVizinhos;          
+    struct No** vizinhos;    
 };
 
 struct No* clonarDFS(struct No* original, struct No* visitados[]) {
